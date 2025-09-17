@@ -134,7 +134,7 @@ Options you can pass (if implemented in the script):
 - Oscillations later in training are analyzed (critic target lag, buffer mix, HER ratio).
 
 Per-seed curves are available in `performanceAssessment/seed*.png`.
-See detailed figures and ablations in the [![Report](https://img.shields.io/badge/Report-PDF-red)](./RL_FINAL_REPORT)
+See detailed figures and ablations in the [![Report](https://img.shields.io/badge/Report-PDF-red)](./RL_FINAL_REPORT.pdf)
 
 
 ---
